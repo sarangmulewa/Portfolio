@@ -78,10 +78,6 @@ li{
     letter-spacing: 1px;    
 }
 
-a:hover{
-    background-color: #484848;
-}
-
 #content{
     height: 100%;
     width: 100%;
